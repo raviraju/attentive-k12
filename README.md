@@ -43,3 +43,16 @@ Web Platform to configure chatbot interaction with students
     Getting Started with Cassandra, using Node.js     : http://hadoopmag.com/getting-started-with-cassandra-using-node-js/
     
     Deploy Datastax Enterprise on Google Cloud Platform in Less Than 3 Min : https://www.datastax.com/2016/09/deploy-datastax-enterprise-on-google-cloud-platform-in-less-than-3-minutes
+    
+    
+##Chatbots
+    https://dev.botframework.com/
+    https://www.mobilescout.com/software/news/n72278/all-you-need-to-know-about-chatbots-guide.html
+    http://chatterbot.readthedocs.io/en/stable/index.html
+    https://www.inverse.com/article/15653-google-open-source-chatbot
+    https://developer.pandorabots.com/
+    https://github.com/howdyai/botkit/blob/master/readme.md#basic-usage
+    https://api.ai/
+    https://www.udemy.com/chatbots/
+
+
